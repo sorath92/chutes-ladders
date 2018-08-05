@@ -56,7 +56,7 @@ MainClass - chute-ladders/src/com/sovan/main/ChuteAndLadders.java . The main met
 32. alpha: 99 --> 100 
 The winner is alpha 
 
-### TodoItems: If this were a real project
+### Todo Items: If this were a real project
 
 1. Would like to add a Multithread execution to enable faster processing of turns for each player. 
 2. Allow content Bundling for l10n changes. 
