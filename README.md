@@ -18,7 +18,7 @@ not in the requirements given.
 
 ### Answers
 
-MainClass - chute-ladders/src/com/sovan/main/ChuteAndLadders.java The main method simultes 2 Players.
+MainClass - chute-ladders/src/com/sovan/main/ChuteAndLadders.java . The main method simultes 2 Players.
 
 ### My Sample Output with Two Players. Alpha And Beta
 
