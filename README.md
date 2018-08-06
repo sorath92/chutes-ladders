@@ -56,6 +56,10 @@ MainClass - chute-ladders/src/com/sovan/main/ChuteAndLadders.java . The main met
 32. alpha: 99 --> 100 
 The winner is alpha 
 
+### Assumptions
+1. People should play serially . (One goes first then other)
+
+
 ### Todo Items: If this were a real project
 
 1. Would like to add a Multithread execution to enable faster processing of turns for each player. 
